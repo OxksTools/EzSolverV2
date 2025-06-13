@@ -1,3 +1,5 @@
+# EVERYTHING IS COMPLETE JUST GETTING HOSTING SETUP!
+
 ## 💳 Pricing & Credits System
 
 EzSolverV2 runs on a simple **credit-based model** using unique API keys for each user.
