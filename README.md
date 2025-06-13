@@ -26,6 +26,8 @@ EzSolverV2 runs on a simple **credit-based model** using unique API keys for eac
 
 **Paid users:**
 - 💳 $1.00 = **~2,000 solves**
+
+- # ScreenShots
 ![image](https://github.com/user-attachments/assets/850648f3-89ae-4430-abd3-23bea6f988f2)
 ![image](https://github.com/user-attachments/assets/300f6c8e-8532-41d2-93a3-2abff3f61247)
 ![image](https://github.com/user-attachments/assets/06995376-aa85-46e0-86bc-2cf14e3a3609)
