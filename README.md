@@ -1,4 +1,4 @@
-# EVERYTHING IS COMPLETE JUST GETTING HOSTING SETUP!
+# Sucessfully Created, Vistit http://31.214.245.63:10000/register To Get Started!
 
 ## 💳 Pricing & Credits System
 
