@@ -75,9 +75,10 @@ Content-Type: application/json
   "websiteURL": "https://target.com",
   "websiteKey": "sitekey-here",
   "type": "HCaptchaTask"
-}
+}```
 
-Response:
+**Response:**
+```http
 {
   "errorId": 0,
   "taskId": "f98f7dc9d6b7438bb5ef68e6d..."
