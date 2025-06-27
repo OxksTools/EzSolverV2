@@ -1,7 +1,7 @@
 # 🔐 EzSolverV2 — CAPTCHA Solving API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
-[![Discord](https://img.shields.io/discord/1387190222164463706?color=blue&label=Discord&logo=discord)](https://discord.gg/yourdiscordlink)  
+[![Discord](https://img.shields.io/discord/1387190222164463706?color=blue&label=Discord&logo=discord)](https://discord.gg/hHQhV3WBCY)  
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen)](http://31.214.245.63:10000)  
 
 ---
