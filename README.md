@@ -55,9 +55,9 @@ EzSolverV2 uses a **credit-based model**:
    Visit 👉 [http://31.214.245.63:10000/register](http://31.214.245.63:10000/register)
 
 2. **Get your API key:**  
-   After registering, you can link your Discord via the bot command `!register` or view your key in the dashboard.
+   After registering, link your Discord via the bot command `!register` or view your key in the dashboard.
 
-3. **Make your API requests:**  
+3. **Make API requests:**  
    Use your API key with the provided endpoints to submit CAPTCHA solving tasks.
 
 ---
@@ -75,11 +75,64 @@ Content-Type: application/json
   "websiteURL": "https://target.com",
   "websiteKey": "sitekey-here",
   "type": "HCaptchaTask"
-}```
+}
+```
 
 **Response:**
-```http
+
+```json
 {
   "errorId": 0,
   "taskId": "f98f7dc9d6b7438bb5ef68e6d..."
 }
+```
+
+---
+
+## 🤖 Discord Bot Commands
+
+| Command     | Description                                    |
+| ----------- | ---------------------------------------------- |
+| `!register` | Link your Discord account to EzSolver (via DM) |
+| `!balance`  | Check your current credit balance              |
+| `!mykey`    | Get your API key (sent via DM)                 |
+| `!usage`    | Show your last 5 CAPTCHA solves                |
+| `!logout`   | Unlink your Discord account                    |
+| `!helpme`   | Display all available commands                 |
+| `!resetkey` | Reset your API key (new key sent via DM)       |
+
+---
+
+## 🖼 Screenshots
+
+![Dashboard](https://github.com/user-attachments/assets/850648f3-89ae-4430-abd3-23bea6f988f2)  
+*Dashboard overview*
+
+![API Usage](https://github.com/user-attachments/assets/300f6c8e-8532-41d2-93a3-2abff3f61247)  
+*API usage stats*
+
+![Discord Bot](https://github.com/user-attachments/assets/06995376-aa85-46e0-86bc-2cf14e3a3609)  
+*Discord bot integration*
+
+---
+
+
+
+## 📬 Contact & Support
+
+For questions, issues, or contributions:
+
+- Join our [Discord Server]([https://discord.gg/yourdiscordlink](https://discord.gg/hHQhV3WBCY))  
+- Open an issue on GitHub  
+- Email: support@ezsolver.xtc  
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+**Thank you for choosing EzSolverV2!**  
+Happy solving! 🎉
